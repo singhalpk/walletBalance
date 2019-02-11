@@ -8,7 +8,7 @@ npm install
 
 ### Step to Run  
 ```  
-npm run start  
+npm start  
 ```  
 
 ### API  
